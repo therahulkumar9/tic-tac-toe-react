@@ -4,7 +4,7 @@ Hey there! 👋 Welcome to my Tic Tac Toe game. It's a simple, fun project I bui
 
 ## Check it out live! 🌐
 
-You can play the game right now at [https://therahulkumar9.vercel.app ](https://therahulkumar9.vercel.app/). Go ahead, challenge a friend!
+You can play the game right now at [https://tic-tac-toe-react-9.vercel.app ](https://tic-tac-toe-react-9.vercel.app/). Go ahead, challenge a friend!
 
 ## What's this all about?
 
